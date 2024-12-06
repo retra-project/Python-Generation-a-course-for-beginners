@@ -1,0 +1,2 @@
+# Философия Python
+import this
