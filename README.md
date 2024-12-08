@@ -1,1 +1,1 @@
-# Python-Generation-a-course-for-beginners
+# python-generation-a-course-for-beginners
